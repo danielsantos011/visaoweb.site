@@ -146,10 +146,10 @@ text-align: justify;
 @media(max-width: 768px){
 
   .palagrafo{
-    max-width: 420px;
+    max-width: 230px;
   }
   .paragrafo{ 
-    max-width: 420px;
+    max-width: 230px;
   }
 
 }
