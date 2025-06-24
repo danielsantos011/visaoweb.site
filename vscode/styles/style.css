@@ -143,4 +143,13 @@ text-align: justify;
   }
    
    
+@media(max-width: 768px){
 
+  .palagrafo{
+    max-width: 320px;
+  }
+  .paragrafo{ 
+    max-width: 320px;
+  }
+
+}
