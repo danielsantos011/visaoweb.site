@@ -145,6 +145,10 @@ text-align: justify;
    
 @media(max-width: 768px){
 
+  .sobre{
+    max-width: 320px;
+  }
+
   .palagrafo{
     max-width: 230px;
   }
